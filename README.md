@@ -1,15 +1,14 @@
-# Agentic AI Systems — Lab Assignments & Course Project Repository
+# Agentic AI Systems — Lab Assignments
 
-**Student Name:** Satyam Savarna  
-**GitHub Profile:** [Sotus12](https://github.com/Sotus12)  
-**Repository:** [https://github.com/Sotus12/Agentic-AI-Lab-Assignments](https://github.com/Sotus12/Agentic-AI-Lab-Assignments)  
+**USN:** 02FE23BCI042  
+**Repository:** [https://github.com/shreyatupale/02FE23BCI042_Agentic_AI](https://github.com/shreyatupale/02FE23BCI042_Agentic_AI)  
 **Course:** Agentic AI Systems (School of Computer Science & Engineering, KLE Technological University)  
 
 ---
 
 ## Repository Structure Overview
 
-This repository strictly adheres to the submission guidelines specified in the *Agentic AI Lab Guide*:
+This repository contains all 14 Lab Assignments adhering to the submission guidelines specified in the *Agentic AI Lab Guide*:
 
 ```
 .
@@ -69,16 +68,6 @@ This repository strictly adheres to the submission guidelines specified in the *
 │   ├── reference.py                   # Reference program
 │   ├── Assignment 1/                  # Task 1: Dual Reusable Skills with Router Node
 │   └── Assignment 2/                  # Task 2: 6-Case Evaluation & Adversarial Defense
-├── Course Project Report.pdf          # Formal Capstone Course Project Report (PDF)
-├── Course Project Source Code/        # Faculty Appraisal Management System (Full Source)
-│   ├── app/                           # Agents, API, Tools, Skills, Graph, Runtime
-│   ├── config/                        # Scoring rules & settings
-│   ├── data/                          # Faculty evidence & synthetic database
-│   ├── dashboard/                     # Streamlit evaluation UI
-│   ├── docs/                          # Architecture, lab mappings, viva prep
-│   ├── reports/                       # Generated appraisal PDFs & JSON dossiers
-│   ├── tests/                         # Pytest test suites across all 12 concepts
-│   └── run.py                         # Application CLI runner
 └── Agentic_AI_Lab_Guide.docx          # Original Lab Guide Manual
 ```
 
@@ -102,13 +91,3 @@ This repository strictly adheres to the submission guidelines specified in the *
 | **[Assignment 12](./Assignment%2012)** | Safety & Governance (Production Guardrails) | Task 1 (Cost guardrail) & Task 2 (Re-evaluation cadence) |
 | **[Assignment 13](./Assignment%2013)** | Discipline-Specific Agents (Predictive Maint.) | Task 1 (Electrical agent) & Task 2 (Trend escalation) |
 | **[Assignment 14](./Assignment%2014)** | Capstone Project Studio (Helpdesk Agent) | Task 1 (Dual skills) & Task 2 (Adversarial test suite) |
-
----
-
-## Course Project: Faculty Appraisal Management System
-
-* **Source Code Directory:** `Course Project Source Code/`
-* **Formal Project Report:** `Course Project Report.pdf`
-* **Architecture:** Autonomous Multi-Agent AI system automating faculty annual appraisal across Teaching, Research, and Institutional Administration.
-* **Core Concepts:** Implements all 12 Core Concepts of the Agentic AI curriculum.
-* **Verification:** Full test suite in `Course Project Source Code/tests/` running across agents, MCP connectors, SQLite scoped memory, node graph DAGs, swarms, and tamper-evident SHA-256 rolling hash chains.

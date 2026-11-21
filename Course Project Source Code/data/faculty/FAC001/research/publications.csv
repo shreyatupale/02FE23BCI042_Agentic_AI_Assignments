@@ -1,6 +1,0 @@
-publication_id,title,journal,year,type,status,file_ref
-PUB001,Deep Learning for Smart Agriculture,IEEE Transactions on AI,2026,journal,published,publication_01.pdf
-PUB002,Federated Learning in Healthcare Systems,ACM Computing Surveys,2026,journal,published,publication_02.pdf
-PUB003,Transformer Architectures for Edge Devices,Neural Computing and Applications,2025,journal,published,
-PUB004,Reinforcement Learning for Autonomous Navigation,Springer AI Review,2026,journal,published,
-PUB005,Explainable AI in Clinical Decision Support,Nature Machine Intelligence,2025,journal,published,
